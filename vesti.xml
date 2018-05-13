@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vesti>
+	<vest>
+		<patch>1.1</patch>
+		<ships>YAMATO</ships>
+		<mission>New campaing missions</mission>
+	</vest>
+	<vest>
+		<patch>1.2</patch>
+		<ships>NEW MEXICO</ships>
+		<mission>New credits missons</mission>
+	</vest>
+	<vest>
+		<patch>1.3</patch>
+		<ships>MONTANA</ships>
+		<mission>Chance to win premium ships</mission>
+	</vest>
+	<vest>
+		<patch>1.4</patch>
+		<ships>FENIX</ships>
+		<mission>New equipment missions</mission>
+	</vest>
+	<vest>
+		<patch>1.5</patch>
+		<ships>ISOKAZE</ships>
+		<mission>New consumables misson</mission>
+	</vest>	
+</vesti>

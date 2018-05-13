@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/</loc>
+  <changefreq>yearly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/index.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/stranice/gallery.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/stranice/contact.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/stranice/login.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/stranice/game.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/stranice/autor.html</loc>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://ignjatjokanovic.000webhostapp.com/resursi/documentation.pdf</loc>
+  <lastmod>2016-12-07T06:52:26+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

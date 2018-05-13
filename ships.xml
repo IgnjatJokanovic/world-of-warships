@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-styleshet type="text/xsl" href="stil.xsl"?>
+<brodovi>
+	<brod>
+		<ime>STCAROLINA</ime>
+		<tip>BATTLESHIP</tip>
+		<pow>9 cannons</pow>
+		<spd>40KNPH</spd>
+	</brod>
+	<brod>
+		<ime>IOWA</ime>
+		<tip>BATTLESHIP</tip>
+		<pow>12 cannons</pow>
+		<spd>30KNPH</spd>
+	</brod>
+	<brod>
+		<ime>ISOKAZE</ime>
+		<tip>DESTROYER</tip>
+		<pow>4 torpedo tubes</pow>
+		<spd>40KNPH</spd>
+	</brod>
+	<brod>
+		<ime>BISMARK</ime>
+		<tip>BATTLESHIP</tip>
+		<pow>14 cannons</pow>
+		<spd>20KNPH</spd>
+	</brod>
+	<brod>
+		<ime>FENIX</ime>
+		<tip>CRUISER</tip>
+		<pow>8 cannons</pow>
+		<spd>60KNPH</spd>
+	</brod>
+	<brod>
+		<ime>MONTANA</ime>
+		<tip>BATTLESHIP</tip>
+		<pow>13 cannons</pow>
+		<spd>35KNPH</spd>
+	</brod>
+	<brod>
+		<ime>YAMATO</ime>
+		<tip>BATTLESHIP</tip>
+		<pow>23 cannons</pow>
+		<spd>20KNPH</spd>
+	</brod>
+	<brod>
+		<ime>NEW ORLEANS</ime>
+		<tip>CRUISER</tip>
+		<pow>7 cannons</pow>
+		<spd>60KNPH</spd>
+	</brod>
+	<brod>
+		<ime>SAMPHSON</ime>
+		<tip>DESTROYER</tip>
+		<pow>4 torpedo tubes</pow>
+		<spd>80KNPH</spd>
+	</brod>
+	<brod>
+		<ime>NICHOLAS</ime>
+		<tip>DESTROYER</tip>
+		<pow>3 torpedo tubes</pow>
+		<spd>70KNPH</spd>
+	</brod>
+</brodovi>

@@ -1,0 +1,423 @@
+*{
+	margin: 0 auto;
+}
+#container {
+	width: 100%;
+	background-color: #003333;
+}
+#navcontainer {
+	width: 100%;
+	height: 82px;
+	background-color: #454545;
+	position: fixed;
+}
+#logo {
+	width: 82px;
+	height: 82px;
+	float: left;
+	padding-left: 30px;
+}
+#logo img {
+	width: 80px;
+	height: 80px;
+	
+}
+#meni {
+	
+	width: 900px;
+	margin: 0px;
+	padding: 10px 100px 0px 200px;
+}
+#meni ul {
+	list-style-type: none;
+    overflow: hidden;
+}
+#meni ul li {
+	display: inline;
+}
+#meni ul li a  {
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size: 25px;
+}
+#srch {
+	padding: 20px 20px 0px 20px;
+}
+#serch {
+	border-style: none;
+	border-radius: 20px;
+}
+#go {
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+}
+
+#ddmc {
+	position: absolute;
+    background-color: #454545;
+	width: 150px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	display: none;
+	padding: none;
+}
+#ddmc li a {
+	text-align: justify;
+	color: black;
+    text-decoration: none;
+}
+.rsswarp {
+	color: black;
+	width: 500px;
+	height: 800px;
+	padding-top: 200px;
+}
+#n {
+	color: white;
+	width: 100px;
+	text-align: center;
+}
+.rsswarp h2 {
+	text-align: center;
+	color: white;
+	padding-bottom: 50px;
+	
+
+}
+.map {
+	color: black;
+	width: 500px;
+	height: 800px;
+	padding-top: 200px;
+}
+.map h2 {
+	text-align: center;
+	color: white;
+	padding-bottom: 50px;
+}
+.map table {
+	background-color: white;
+	border: 2px solid black;
+}
+.map th {
+	background-color: white;
+	border: 2px solid black;
+}
+.map td {
+	background-color: white;
+	border: 2px solid black;
+}
+.rssSadrzaj {
+	background-color: white;
+	margin: 5px 0px 5px 0px;
+	padding-right: 20px;
+	font-size: 20px;
+	border-radius: 10px;
+	height: 150px;
+}
+.titl{
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	margin: 20px 0px 0px 20px;
+}
+.opis {
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+#meni a:hover {
+	
+	color: orange;
+}
+#srch {
+	display: block;
+	float: right;
+	width: 300px;
+	
+}
+#srch form table tr td img {
+	width: 20px;
+	height: 20px;
+}
+#serch {
+	margin: 0px 10px 0px 15px;
+}
+#ddm {
+	position: absolute;
+    background-color: #454545;
+
+}
+#slider {
+	padding:150px 0px 200px 0px;
+	width:1400px;
+	height:788px;
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+#sredina {
+	width: 100%;
+	height: 1700px;
+	padding-top: 200px;
+	color:white;
+	text-align:center;
+}
+#brodovi {
+	width: 100%;
+	padding: 100px 0px 100px 0px;
+	height: 800px;
+}
+
+.brslika {
+	width: 570px;
+	height: 300px;
+	float: left;
+	padding: 100px 100px 0px 100px; 
+}
+.brtxt {
+	width: 400px;
+	float: right;
+	padding: 140px 300px 0px 100px;
+	text-align: justify;
+}
+.brtxt h3 {
+	text-align: justify;
+	padding-bottom: 20px;
+}
+#maintext p {
+	padding:40px 300px 0px 300px;
+	line-height: 20px;
+	font-size: 20px;
+	text-align:justify;
+}
+
+#copy p {
+	padding: 40px 0px 0px 600px;
+	color:white;
+	
+}
+#copy a {
+	padding-left: 500px;
+}
+
+#dole {
+	width: 100%;
+	height: 150px;
+	background-color: black;
+}
+#stavke {
+	padding: 30px 0px 0px 40px;
+	float:left;
+	
+}
+#stavke a {
+	color: white;
+}
+#stavke ul li {
+	padding-top: 5px;
+}
+#documentation a {
+	text-decoration: none;
+	color: white;
+	
+	
+}
+.cisti {
+	clear:both;
+}
+#sub {
+	width:40px;
+}
+
+#forma {
+	color: white;
+	padding-top: 150px;
+	padding-right: 200px;
+	background-color: #003333;
+	
+}
+#pojava {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	width: 700px;
+	height: 500px;
+
+}
+#pojava table {
+	border: 1px solid black;
+	background-color: white;
+}
+#pojava td {
+	border: 1px solid black;
+	
+}
+#pojava th {
+	color: black;
+	font-size: 20px;
+	border: 1px solid black;
+	padding-right: 20px;
+}
+#sh {
+	padding-top: 200px;
+	padding-bottom: 100px;
+	width: 700px;
+	height: 500px;
+
+}
+#sh table {
+	border: 1px solid black;
+	background-color: white;
+}
+#sh td {
+	border: 1px solid black;
+	
+}
+#sh th {
+	color: black;
+	font-size: 20px;
+	border: 1px solid black;
+	padding-right: 20px;
+}
+#mreze {
+	float:right;
+	width: 400px;
+	padding-top: 70px;
+	
+}
+.mreze {
+	display:inline;
+	width: 50px;
+	height: 50px;
+	
+}
+.mreze img {
+	border-radius: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 40px;
+	height: 40px;
+}
+
+#slider img{
+	
+	background-repeat:no-repeat;
+    background-size:cover;
+	overflow:hidden;
+}
+#cont {
+	padding-top: 200px;
+	width: 100%;
+	height: 800px;
+}
+#cont th {
+	padding-left: 20px;
+	color: white;
+	font-size: 30px;
+	padding-bottom: 100px;
+	text-align: center;
+	
+}
+#register td {
+	color: white;
+	
+}
+#forma {
+	width: 700px;
+}
+#register th {
+	color: white;
+	
+}
+#auts {
+	width: 100%;
+
+	height: 800px;
+	
+}
+#res {
+	margin-left: 10px;
+}
+#login th {
+	color: white;
+}
+#forma p{
+	margin: 100px 0px 100px 0px;
+	text-align: center;
+}
+#login td {
+	color: white;
+}
+#ja {
+	padding: 200px 500px 0px 700px;
+}
+#jax h1 {
+	color: white;
+	margin-top: 100px;
+	text-align: center;
+}
+#logf {
+	width: 100%;
+	height: 800px;
+	color: white;
+}
+#jax p  {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 20px;
+	
+}
+#ja img {
+	border-radius: 100px;
+	width: 200px;
+	height: 200px;
+	
+	
+}
+#lt {
+	padding-top: 200px;
+	float: left;
+	margin-right: 600px;
+}
+#gt {
+	padding-top: 200px;
+	float: right;
+	
+}
+#cont p {
+	color: white;
+	font-size: 30px;
+	padding-top: 30px;
+	
+}
+.polj {
+	width: 200px;
+	height: 30px;
+	margin-top: 30px;
+}
+#por {
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+}
+#salji {
+	width: 200px;
+	height: 25px;
+	margin-top: 60px;
+	margin-left: 200px;
+	color: #003333;
+}
+#gal {
+	width: 1250;
+	height: 750;
+	padding: 200px 200px 100px 300px;  
+	
+}
+
+	
+
+
+.show {display:block;}
